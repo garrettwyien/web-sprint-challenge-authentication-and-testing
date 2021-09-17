@@ -31,6 +31,7 @@
     "jest": "26.6.3",
     "jwt-decode": "^3.1.2",
     "nodemon": "2.0.12",
+    "set-cookie-parser": "^2.4.8",
     "supertest": "6.1.6"
   }
 }
